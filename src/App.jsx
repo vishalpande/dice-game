@@ -10,7 +10,6 @@ const[gameStarted,setGameStarted]=useState(false);
 const gamePlay=()=>{
 
 setGameStarted(prev => !prev);
-
 }
   return (
 <>
