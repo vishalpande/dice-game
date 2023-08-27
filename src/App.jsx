@@ -12,7 +12,6 @@ const gamePlay=()=>{
 setGameStarted(prev => !prev);
 
 }
-
   return (
 <>
 <div>
